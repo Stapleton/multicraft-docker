@@ -1,10 +1,10 @@
 <Container version="2">
 	<Name>Multicraft</Name>
-	<Repository>clutch152/multicraft</Repository>
+	<Repository>stapleton/multicraft-docker</Repository>
 	<Registry/>
 	<Network>bridge</Network>
 	<MyIP/>
-	<Shell>sh</Shell>
+	<Shell>bash</Shell>
 	<Privileged>false</Privileged>
 	<Support/>
 	<Project/>
