@@ -50,7 +50,7 @@ then
     MC_DB_TYPE="sqlite"
     MC_KEY=${MC_KEY:-"0B10-A841-E555-3B78"}
     MC_LOCAL="y"
-    MC_MULTIUSER="y"
+    MC_MULTIUSER="n"
     MC_PLUGINS="y"
     MC_WEB_USER="www-data"
     MC_CREATE_USER="y"
